@@ -1,0 +1,6 @@
+train: ../lapis_dataset_yolo/images/train
+val: ../lapis_dataset_yolo/images/val
+test: ../lapis_dataset_yolo/images/test
+
+nc: 4
+names: ['anode', 'corner', 'flange', 'pipe']
